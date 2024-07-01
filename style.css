@@ -1,0 +1,26 @@
+.container {
+display: flex;
+justify-content: center;
+margin-top: 50px;
+}
+#color-box{
+    width : 400px;
+    height : 300px;
+    background-color: rgb(200, 199, 199) ;
+    margin-left: 37%;
+    border : 3px black solid
+}
+#change-color-btn{
+    background-color : rgb(9, 9, 9);
+    color : white;
+    font-weight: bold ;
+    box-shadow: 10px 8px 15px black;
+    border: solid black 3px;
+    border-radius: 8px 8px 8px 8px;
+    height: 50px;
+    margin-left: 47%;
+    margin-top: 20px;
+
+}
+h4 { 
+margin-left : 44%;}
